@@ -4,7 +4,6 @@ import net.minecraft.client.renderer.IImageBuffer;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
-import java.awt.image.ImageObserver;
 
 public class ParseCape implements IImageBuffer {
     private int imageWidth;
