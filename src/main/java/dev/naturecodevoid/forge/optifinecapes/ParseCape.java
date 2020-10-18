@@ -1,4 +1,4 @@
-package com.github.nearata.optifinecapes;
+package dev.naturecodevoid.forge.optifinecapes;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;

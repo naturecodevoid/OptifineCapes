@@ -1,4 +1,4 @@
-package com.github.nearata.optifinecapes;
+package dev.naturecodevoid.forge.optifinecapes;
 
 import net.minecraft.client.entity.AbstractClientPlayer;
 import net.minecraft.client.network.NetworkPlayerInfo;
